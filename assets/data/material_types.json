@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mat_1",
+    "nameEn": "Plastic Bottles",
+    "nameAr": "قناني بلاستيكية",
+    "category": "plastic",
+    "description": "PET plastic bottles, clean and sorted",
+    "icon": "🍶",
+    "unit": "kg",
+    "averagePrice": 0.8,
+    "isActive": true
+  },
+  {
+    "id": "mat_2",
+    "nameEn": "Cardboard",
+    "nameAr": "كرتون",
+    "category": "cardboard",
+    "description": "Clean cardboard boxes and packaging",
+    "icon": "📦",
+    "unit": "kg",
+    "averagePrice": 0.3,
+    "isActive": true
+  },
+  {
+    "id": "mat_3",
+    "nameEn": "Glass Bottles",
+    "nameAr": "قناني زجاجية",
+    "category": "glass",
+    "description": "Clear and colored glass bottles",
+    "icon": "🍾",
+    "unit": "kg",
+    "averagePrice": 0.2,
+    "isActive": true
+  },
+  {
+    "id": "mat_4",
+    "nameEn": "Newspapers",
+    "nameAr": "جرائد",
+    "category": "paper",
+    "description": "Old newspapers and magazines",
+    "icon": "📰",
+    "unit": "kg",
+    "averagePrice": 0.4,
+    "isActive": true
+  },
+  {
+    "id": "mat_5",
+    "nameEn": "Aluminum Cans",
+    "nameAr": "علب ألمنيوم",
+    "category": "metal",
+    "description": "Aluminum beverage cans",
+    "icon": "🥤",
+    "unit": "kg",
+    "averagePrice": 1.5,
+    "isActive": true
+  },
+  {
+    "id": "mat_6",
+    "nameEn": "Electronic Waste",
+    "nameAr": "نفايات إلكترونية",
+    "category": "electronics",
+    "description": "Old phones, computers, and electronic devices",
+    "icon": "📱",
+    "unit": "piece",
+    "averagePrice": 5.0,
+    "isActive": true
+  },
+  {
+    "id": "mat_7",
+    "nameEn": "Organic Waste",
+    "nameAr": "نفايات عضوية",
+    "category": "organic",
+    "description": "Food scraps and organic materials for composting",
+    "icon": "🍃",
+    "unit": "kg",
+    "averagePrice": 0.1,
+    "isActive": true
+  },
+  {
+    "id": "mat_8",
+    "nameEn": "Textiles",
+    "nameAr": "منسوجات",
+    "category": "textile",
+    "description": "Old clothes and fabric materials",
+    "icon": "👕",
+    "unit": "kg",
+    "averagePrice": 0.5,
+    "isActive": true
+  },
+  {
+    "id": "mat_9",
+    "nameEn": "Copper Wire",
+    "nameAr": "أسلاك نحاسية",
+    "category": "metal",
+    "description": "Copper electrical wires and cables",
+    "icon": "🔌",
+    "unit": "kg",
+    "averagePrice": 8.0,
+    "isActive": true
+  },
+  {
+    "id": "mat_10",
+    "nameEn": "Mixed Paper",
+    "nameAr": "ورق مختلط",
+    "category": "paper",
+    "description": "Office paper, books, and mixed paper waste",
+    "icon": "📄",
+    "unit": "kg",
+    "averagePrice": 0.35,
+    "isActive": true
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "user_1",
+    "name": "أحمد محمد",
+    "email": "ahmed@example.com",
+    "phone": "+961 70 123456",
+    "role": "seller",
+    "location": "بيروت، لبنان",
+    "profileImage": null,
+    "rating": 4.5,
+    "totalTransactions": 15,
+    "createdAt": "2024-01-15T10:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": "user_2",
+    "name": "فاطمة علي",
+    "email": "fatima@example.com",
+    "phone": "+961 71 234567",
+    "role": "buyer",
+    "location": "طرابلس، لبنان",
+    "profileImage": null,
+    "rating": 4.8,
+    "totalTransactions": 8,
+    "createdAt": "2024-02-01T09:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "user_3",
+    "name": "محمد حسن",
+    "email": "mohammed@example.com",
+    "phone": "+961 76 345678",
+    "role": "seller",
+    "location": "صيدا، لبنان",
+    "profileImage": null,
+    "rating": 4.2,
+    "totalTransactions": 22,
+    "createdAt": "2024-01-20T14:15:00Z",
+    "isActive": true
+  },
+  {
+    "id": "user_4",
+    "name": "ليلى خليل",
+    "email": "layla@example.com",
+    "phone": "+961 78 456789",
+    "role": "buyer",
+    "location": "زحلة، لبنان",
+    "profileImage": null,
+    "rating": 4.6,
+    "totalTransactions": 12,
+    "createdAt": "2024-02-10T11:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": "admin_1",
+    "name": "مدير النظام",
+    "email": "admin@recyclelebs.com",
+    "phone": "+961 1 987654",
+    "role": "admin",
+    "location": "بيروت، لبنان",
+    "profileImage": null,
+    "rating": 5.0,
+    "totalTransactions": 0,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": "user_5",
+    "name": "سامر قاسم",
+    "email": "samer@example.com",
+    "phone": "+961 70 567890",
+    "role": "seller",
+    "location": "جونية، لبنان",
+    "profileImage": null,
+    "rating": 4.3,
+    "totalTransactions": 18,
+    "createdAt": "2024-01-25T16:45:00Z",
+    "isActive": true
+  },
+  {
+    "id": "user_6",
+    "name": "نور الدين",
+    "email": "nour@example.com",
+    "phone": "+961 71 678901",
+    "role": "buyer",
+    "location": "النبطية، لبنان",
+    "profileImage": null,
+    "rating": 4.7,
+    "totalTransactions": 6,
+    "createdAt": "2024-02-15T13:30:00Z",
+    "isActive": true
+  }
+]
